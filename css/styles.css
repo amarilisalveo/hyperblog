@@ -6,3 +6,6 @@ body{
 .container{
     border: 2px black solid;
 }
+#cabecera{
+    background-color:purple;
+}
